@@ -26,10 +26,10 @@ A simple and modern **Quick Sign App** that allows users to create, customize, a
 ## 🛠 Installation & Setup
 1. **Clone the repository** (or download the files manually):
    ```sh
-   git clone https://github.com/your-username/quick-sign-app.git```
+   git clone https://github.com/Alsanad-Opium/Quicksign_app.git```
 Navigate to the project folder:
 
-```cd quick-sign-app```
+```cd Quicksign_app```
 
 Open index.html in a browser.
 
